@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a090897e69bd41648911e60cc744f8da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinObject: {fileID: 2749960297041597642, guid: 323c031d413be654890371f58a358f08,
+      type: 3}
+  - gemObject: {fileID: 5944137770483653798, guid: 87a10cc1df574754ab6d285dde267366,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
